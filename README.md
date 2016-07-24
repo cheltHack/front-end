@@ -1,2 +1,2 @@
 # front-end
-Front end stuff goes here
+Front end stuff goes here. 
