@@ -1,0 +1,28 @@
+{
+  "name": "front-end",
+  "description": "Front end stuff goes here.",
+  "main": "index.js",
+  "authors": [
+    "Andrew Moffat <andrew.moffat@ge.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/cheltHack/front-end",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "px-app-nav": "^1.7.1",
+    "px-layout": "^0.0.5",
+    "px-card": "^0.4.3"
+  },
+  "resolutions": {
+    "px-theme": "~0.8.0",
+    "polymer": "^1.6.0",
+    "polymer-font-awesome": "master"
+  }
+}
